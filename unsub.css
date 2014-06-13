@@ -1,0 +1,28 @@
+{body
+{
+    background-color:#442228 ;
+}
+head
+{
+    background-image:url('img_tree.png');
+background-repeat:no-repeat;
+background-position:right top;
+margin-right:200px;
+}
+h1
+{
+    color:white;
+    text-align:center
+}
+p
+{
+    font-family:arial; size:15px; text-align:center;
+}
+h2
+{
+    color:white; text-align:center;
+}
+h4
+{
+    color:white; text-align:center; size:12px;
+}
