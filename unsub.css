@@ -1,13 +1,6 @@
-{body
+body
 {
     background-color:#442228 ;
-}
-head
-{
-    background-image:url('img_tree.png');
-background-repeat:no-repeat;
-background-position:right top;
-margin-right:200px;
 }
 h1
 {
@@ -25,4 +18,11 @@ h2
 h4
 {
     color:white; text-align:center; size:12px;
+}
+h3
+{
+	background:#000000;
+	color:white;
+	text-align:center;
+	size:240px;
 }
